@@ -1,0 +1,6 @@
+paths:
+  raw_data: "data/raw_transactions.txt"
+  processed_data: "data/processed_data.txt"
+  sales_data_csv: "data/Sales-Data-Analysis.csv"
+  analyzed_sales_csv: "data/analyzed_sales.csv"
+  reports_dir: "reports"
